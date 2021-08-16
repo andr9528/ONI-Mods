@@ -1,0 +1,4 @@
+[submodule "ONI-Mods.wiki"]
+	path = ONI-Mods.wiki
+	url = https://github.com/andr9528/ONI-Mods.wiki.git
+	branch = master
